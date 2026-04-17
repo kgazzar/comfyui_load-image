@@ -1,4 +1,4 @@
-download file __int__.py
+download file __init__.py
 creat folder loadeimage under your costom node folder
 place the downloaded file in it and run or resatart your comfyui
 
